@@ -21,4 +21,6 @@ setup(
 
     ],
 
+    # use nose to run tests
+    test_suite='nose.collector',
 )
